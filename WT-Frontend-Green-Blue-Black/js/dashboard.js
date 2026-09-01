@@ -1,1 +1,0 @@
-function logout(){if(confirm('Log out of WT?')) location.href='index.html'}
